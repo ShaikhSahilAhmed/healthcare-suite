@@ -137,6 +137,7 @@ This application consists of multiple applications.
 ### Database
 
 - MongoDB
+- Redis
 
 ### Cloud & DevOps
 
@@ -144,7 +145,8 @@ This application consists of multiple applications.
 - Azure DevOps
 - GitLab CI/CD
 - AWS S3
-
+- RabbitMQ
+  
 ### Authentication
 
 - JWT Authentication
