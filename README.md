@@ -120,18 +120,6 @@ This application consists of multiple applications.
 
 ---
 
-# ✨ Screenshots
-
-> Screenshots coming soon.
-
-```
-Patient App
-Doctor App
-Appointment Booking
-Video Consultation
-Prescription
-Doctor Dashboard
-```
 
 ---
 
