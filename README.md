@@ -1,9 +1,3 @@
-# 🏥 HealMate
-
-<p align="center">
-  <img src="docs/logo.png" width="140"/>
-</p>
-
 <p align="center">
   <b>A Modern Digital Healthcare Platform</b><br>
   Connecting Patients, Doctors, Clinics, and Hospitals through one seamless ecosystem.
@@ -122,7 +116,6 @@ HealMate consists of multiple applications.
 | Patient App | Android |
 | Doctor App | Android |
 | Patient Portal | Web |
-| Hospital Portal | Web |
 | Admin Portal | Web |
 
 ---
@@ -138,7 +131,6 @@ Appointment Booking
 Video Consultation
 Prescription
 Doctor Dashboard
-Hospital Dashboard
 ```
 
 ---
@@ -148,11 +140,11 @@ Hospital Dashboard
 ### Frontend
 
 - Flutter
-- Angular
+- React
 
 ### Backend
 
-- ASP.NET Core
+- .NET Core
 
 ### Database
 
@@ -160,8 +152,7 @@ Hospital Dashboard
 
 ### Cloud & DevOps
 
-- Docker
-- Kubernetes
+- AWS EC2
 - Azure DevOps
 - GitLab CI/CD
 - AWS S3
