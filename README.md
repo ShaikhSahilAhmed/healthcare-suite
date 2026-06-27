@@ -13,11 +13,11 @@
 
 # 📖 Overview
 
-HealMate is a comprehensive healthcare platform designed to simplify medical consultations, appointment scheduling, digital prescriptions, and telemedicine.
+This application is a comprehensive healthcare platform designed to simplify medical consultations, appointment scheduling, digital prescriptions, and telemedicine.
 
 The platform enables patients to discover doctors, book appointments, attend secure video consultations, receive digital prescriptions, and manage their healthcare journey—all while giving doctors powerful tools to manage schedules, patients, and consultations.
 
-This repository showcases the HealMate project. The source code is maintained in a private repository.
+This repository showcases the project. The source code is maintained in a private repository.
 
 ---
 
@@ -109,7 +109,7 @@ This repository showcases the HealMate project. The source code is maintained in
 
 # 📱 Applications
 
-HealMate consists of multiple applications.
+This application consists of multiple applications.
 
 | Application | Platform |
 |-------------|----------|
@@ -224,11 +224,11 @@ Coming Soon
 
 # 🤝 Contact
 
-If you'd like to learn more about HealMate or discuss collaboration opportunities:
+If you'd like to learn more about this application or discuss collaboration opportunities:
 
-**LinkedIn:** https://linkedin.com/in/YOURPROFILE
+**LinkedIn:** https://www.linkedin.com/in/shaikh-sahil-ahmed-66809314a/
 
-**Email:** your.email@example.com
+**Email:** sahilahmed786001@gmail.com
 
 ---
 
